@@ -1,5 +1,5 @@
 {
-  "name": "@saas/kos",
+  "name": "@saasfe/kos",
   "version": "0.0.1",
   "description": "The Key Operation System For Frontend",
   "bin": {
@@ -21,6 +21,7 @@
     "url": "http://gitlab.choicesoft.com.cn/KOS/Scaffold/issues"
   },
   "dependencies": {
+    "co": "^4.6.0",
     "colors": "^1.4.0",
     "debug": "^4.1.1",
     "dotenv": "^8.2.0",
