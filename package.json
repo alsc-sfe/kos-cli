@@ -1,6 +1,6 @@
 {
   "name": "@saasfe/kos",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "The Key Operation System For Frontend",
   "bin": {
     "kos": "./bin/kos.js"
