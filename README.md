@@ -2,7 +2,7 @@
 
 ## 1. Install kos-cli:
 
-* npm install kos-cli -g
+* npm i @saasfe/kos -g
 
 * kos init saas
 
